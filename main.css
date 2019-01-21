@@ -1,0 +1,20 @@
+.clock {
+    color: #fff;
+    font-size: 2rem;
+    letter-spacing: 7px;
+}
+
+#hour {
+    color: blue;
+}
+#minute {
+    color: orange;
+}
+#second {
+    color: red;
+}
+
+div#hour, div#minute, div#second {
+    display:unset;
+    font-size: 2rem;
+}
